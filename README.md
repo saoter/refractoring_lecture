@@ -18,3 +18,16 @@ The file is called 'iris_to_db.py' and is located in folder 'pre_deployment'.
 ### 5. Write clear README file
 
 ### 6. Add Licence
+
+## File explanation:
+
+'predict.py' predicts iris type based on the trained model.
+
+'functions.py' includes additional functions used to analyze repo
+
+Predeployment folder has two scripts: 
+    - 'iris_to_db.py' creates database from CSV file and save it in 'database' directory
+    - 'model_training.py' trains a model and save it in 'models' directory
+
+Folder 'not_in_use_anymore' includes starting file ('start.py') and iris csv file 
+ 
