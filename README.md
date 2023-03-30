@@ -1,8 +1,9 @@
 # Preparing machine learning code for deployment!
 'This has nothing to do with the real life.'
 
-
 This repository demonstrates how to prepare a working python code gethered in one file into deployment ready repository. Original file 'start.py' is located in 'not_in_use_anymore' folder. 
+
+
 
 ## Steps
 
@@ -18,6 +19,9 @@ The file is called 'iris_to_db.py' and is located in folder 'pre_deployment'.
 ### 5. Write clear README file
 
 ### 6. Add Licence
+
+
+
 
 ## File explanation:
 
