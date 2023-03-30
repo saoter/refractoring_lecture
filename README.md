@@ -6,9 +6,15 @@ This repository demonstrates how to prepare a working python code gethered in on
 
 ## Steps
 
-### 1. Tarnsforming iris dataset into SQL database. 
+### 1. Transforming iris dataset into SQL database. 
 The file is called 'iris_to_db.py' and is located in folder 'pre_deployment'. 
 
 ### 2. Spliting the original file into 'model_training.py' and 'predict.py'. 
 
 ### 3. Creating file 'functions.py' for additional functionality. 
+
+### 4. Create Requirements.txt and specify packages
+
+### 5. Write clear README file
+
+### 6. Add Licence
